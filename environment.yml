@@ -1,0 +1,6 @@
+name: bc_ev
+dependencies:
+  - python=3.9.12
+  - pip
+  - pip:
+    - -r requirements.txt
